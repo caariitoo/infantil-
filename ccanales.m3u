@@ -1,0 +1,47 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LJYJSQ66s6Q/V_z2vrne6AI/AAAAAAAABxY/7NV0HCOg6Yw4HBrUhvF0gVAru_bpyv7awCLcB/s1600/Discovery_kids_hd_logo.png", Discovery Kids 
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverykidshd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://apps.cartoonnetwork.com.br/uploads/galleries/app/app1/5/426/mini/2ec5514b65bdb23768402fdc9382e50217838457.jpg", Cartoon Network
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cartoonnetworkhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/03/d7/ef/03d7ef7ab60be33b3b3fbbb6a4b37244.jpg", Nicklodeon
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/nickelodeonhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg", Nick Jr.
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/nickjrhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CanalDisneyJuniorLA.png", Disney Junior
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyjuniorhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png", Disney XD
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyxdhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", Boomerang
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/boomeranghd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png", Disney channel
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/disneychannelhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bd/f8/bb/bdf8bb8c6a33dfba36f6004d7cfc2c7e.png", Tooncast
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tooncasthd/video.m3u8
+
+#EXTINF:-1 tvg-logo"https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png", Gloob
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/gloobhd/video.m3u8
+
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", Nat Geo Kids
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/natgeokidshd/video.m3u8
+
